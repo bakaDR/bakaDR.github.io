@@ -12,7 +12,7 @@ title: 关于我
 <p>
 
 所在群组
-<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5qgYOAU/"> 点我加入QQ群: </a>
+<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5qgYOAU"> 点我加入QQ群: </a>
 整理。
 
 <p>
